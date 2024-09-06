@@ -15,7 +15,7 @@ export default function Dashboard() {
           {/* FEEDBACK SECTION */}
           <section className="p-6 bg-white rounded-lg border col-span-2">
             <h2 className="text-2xl font-semibold mb-4 text-gray-800">Feedback</h2>
-            <p className="text-gray-700">You're doing great, Pantoffel! Keep up the good work.</p>
+            <p className="text-gray-700">You&apos;re doing great, Pantoffel! Keep up the good work.</p>
           </section>
 
           {/* TEST RESULT SECTION */}
@@ -70,7 +70,7 @@ export default function Dashboard() {
           <section className="flex flex-col flex-grow p-6 bg-white rounded-lg border col-span-2 lg:col-span-1">
             <h2 className="text-2xl font-semibold mb-4 text-gray-800">Study progress</h2>
             <p className="text-gray-700 mb-4 text-center">
-              You're almost there, Pantoffel! Keep up the good work.
+              You&apos;re almost there, Pantoffel! Keep up the good work.
             </p>
             <div className="flex items-center justify-center">
               <div className="w-48 h-48 bg-orange-50 rounded-full border-4 border-orange-700 flex items-center justify-center">
