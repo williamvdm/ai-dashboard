@@ -1,8 +1,6 @@
 "use client"
 
-import React, { useState, useEffect, useRef } from "react";
-import { BiSolidSend } from "react-icons/bi";
-import ChatComponent from "../components/ChatComponent";
+import React from "react";
 import Link from "next/link";
 
 export default function Dashboard() {
